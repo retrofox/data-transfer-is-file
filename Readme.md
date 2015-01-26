@@ -1,6 +1,6 @@
 data-trasfer-is-file
 ====================
-Return if dataTrasfer event propery has files in its types properties
+Return if `dataTrasfer` event propery has files in its `types` property
 
 Installation
 ------------
