@@ -1,0 +1,23 @@
+{
+  "name": "data-transfer-is-file",
+  "version": "1.0.0",
+  "description": "Return if dataTrasfer event propery has files in its types property",
+  "scripts": {
+  },
+  "keywords": [
+    "dataTrasfer",
+    "event dataTrasfer",
+    "file",
+    "browser"
+  ],
+  "main": "index.js",
+  "component": {
+    "scripts": {
+      "data-transfer-is-file/index.js": "index.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webmodules/data-transfer-is-file.git"
+  }
+}
